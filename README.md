@@ -11,7 +11,7 @@
   <div style="width: 49%; display: flex; flex-direction: column;">
     <img align="top" width="39%"
       src="https://github-readme-stats.vercel.app/api?username=Havsalt&theme=vue-dark&hide=prs,issues,contribs&show_icons=true&hide_rank=True" />
-    <img align="right" width="52.5%"
+    <img align="left" width="52.5%"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Havsalt&theme=vue-dark&size_weight=0.5&count_weight=0.5&langs_count=4" />
   </div>
   <div style="width: 49%;">
