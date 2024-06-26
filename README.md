@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning about even more **advanced topics in `Python`**
 - ⚡ Fun fact: I've been coding for **half a decade** now - _That's more than 25% of my lifetime_
 
+<br>
+
 <!-- Show Stats -->
 <div style="display: flex; width: 100%;">
   <div style="width: 49%; display: flex; flex-direction: column;">
