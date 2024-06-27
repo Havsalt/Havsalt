@@ -6,6 +6,14 @@
 
 <br>
 
+## Tools and Technologies
+Most skilled in...
+- 💎 Python & Rye _project manager_
+- ✨ GDScript @ Godot _game engine_
+- 🌹 JavaScript + Svelte _framework_
+
+<br>
+
 <!-- Show Stats -->
 <div style="display: flex; width: 100%;">
   <div style="width: 49%; display: flex; flex-direction: column;">
