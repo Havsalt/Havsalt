@@ -24,25 +24,25 @@
 
 ## My Proudest Creations
 <a href="https://github.com/Havsalt/here">
-  <img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=Havsalt&repo=here&theme=vue-dark" />
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Havsalt&repo=here&theme=vue-dark" />
 </a>
 
 <a href="https://github.com/Havsalt/charz">
-  <img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=Havsalt&repo=charz&theme=vue-dark" />
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Havsalt&repo=charz&theme=vue-dark" />
 </a>
 
 <a href="https://github.com/Havsalt/actus">
-  <img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=Havsalt&repo=actus&theme=vue-dark" />
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Havsalt&repo=actus&theme=vue-dark" />
 </a>
 
 <a href="https://github.com/Havsalt/colex">
-  <img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=Havsalt&repo=colex&theme=vue-dark" />
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Havsalt&repo=colex&theme=vue-dark" />
 </a>
 
 <a href="https://github.com/Havsalt/Command-Line-Expanded">
-  <img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=Havsalt&repo=Command-Line-Expanded&theme=vue-dark" />
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Havsalt&repo=Command-Line-Expanded&theme=vue-dark" />
 </a>
 
 <a href="https://github.com/Havsalt/Fabricate">
-  <img align="center" width="49.5%" src="https://github-readme-stats.vercel.app/api/pin/?username=Havsalt&repo=Fabricate&theme=vue-dark" />
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Havsalt&repo=Fabricate&theme=vue-dark" />
 </a>
