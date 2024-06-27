@@ -9,12 +9,12 @@
 <!-- Show Stats -->
 <div style="display: flex; width: 100%;">
   <div style="width: 49%; display: flex; flex-direction: column;">
-    <img align="top" width="41.5%"
+    <img align="top" width="40.5%"
       src="https://github-readme-stats.vercel.app/api?username=Havsalt&theme=vue-dark&hide=prs,issues,contribs&show_icons=true&hide_rank=True" />
-    <img align="right" width="56%"
+    <img align="right" width="54%"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Havsalt&theme=vue-dark&size_weight=0.5&count_weight=0.5&langs_count=4" />
   <div style="width: 49%;">
-    <img align="top" width="41.5%"
+    <img align="top" width="40.5%"
       src="https://github-readme-stats.vercel.app/api?username=Havsalt&theme=vue-dark&hide=stars,commits,prs,issues,contribs&hide_title=true" />
   </div>
   </div>
