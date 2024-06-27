@@ -14,7 +14,7 @@ Most skilled in...
 
 <br>
 
-<!-- Show Stats -->
+## Stats
 <div style="display: flex; width: 100%;">
   <div style="width: 49%; display: flex; flex-direction: column;">
     <img align="top" width="40.5%"
