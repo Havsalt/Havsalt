@@ -8,9 +8,13 @@
 
 ## Tools and Technologies
 Most skilled in...
-- 💎 Python & Rye _project manager_
-- ✨ GDScript @ Godot _game engine_
-- 🌹 JavaScript + Svelte _framework_
+- 💎 `Python` & Rye _project manager_
+- ✨ `GDScript` @ Godot _game engine_
+- 🌹 `JavaScript` + Svelte _framework_
+
+Wants to learn...
+- 🌙 `Lua` for its minimalism & config ⚙️
+- 🦀 `Rust` because its compiled & type safe ⚡
 
 <br>
 
