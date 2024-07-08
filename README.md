@@ -14,7 +14,7 @@ Most skilled in...
 
 Wants to learn...
 - 🌙 `Lua`
-  for its minimalism ⋆˚｡
+  for its minimalism ${\textsf{\color{yellow}⋆}{\color{gold}˚}{\color{orange}｡}}$
   & use in configuration ⚙️
 - 🦀 `Rust`
   because its compiled ⚡
