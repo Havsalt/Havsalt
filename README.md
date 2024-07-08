@@ -14,7 +14,7 @@ Most skilled in...
 
 Wants to learn...
 - 🌙 `Lua`
-  for its minimalism 🍃
+  for its minimalism 🌿
   & use in configuration ⚙️
 - 🦀 `Rust`
   because its compiled ⚡
