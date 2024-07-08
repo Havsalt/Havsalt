@@ -13,8 +13,12 @@ Most skilled in...
 - 🌹 `JavaScript` + Svelte _framework_
 
 Wants to learn...
-- 🌙 `Lua` for its minimalism & config ⚙️
-- 🦀 `Rust` because its compiled & type safe ⚡
+- 🌙 `Lua`
+  for its minimalism ⋆˚｡
+  & use in configuration ⚙️
+- 🦀 `Rust`
+  because its compiled ⚡
+  & type safe 🛡️
 
 <br>
 
