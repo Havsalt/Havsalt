@@ -20,6 +20,11 @@ Wants to learn...
   because its compiled ⚡
   & type safe 🛡️
 
+When editing...
+- 📘 `Visual Studio Code`
+- 🚀 + `Vim motions`
+- 💥 & `PowerShell`
+
 <br>
 
 ## Stats
