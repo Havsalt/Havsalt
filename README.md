@@ -1,7 +1,7 @@
 ## About Me
 
-- 🔭 I’m currently working on **command line tools** and **modular `Python` libraries**
-- 🌱 I’m currently learning about even more **advanced topics in `Python`**
+- 🔭 I’m currently working on **rewriting `Python` command line tools** in `Rust`
+- 🌱 I’m currently learning about how to **develop** using `Rust`
 - ⚡ Fun fact: I've been coding for **half a decade** now - _That's more than 25% of my lifetime_
 
 <br>
