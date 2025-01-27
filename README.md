@@ -44,8 +44,8 @@ When editing...
 <br>
 
 ## My Proudest Creations
-<a href="https://github.com/Havsalt/here">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Havsalt&repo=here&theme=vue-dark" />
+<a href="https://github.com/Havsalt/here-rs">
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Havsalt&repo=here-rs&theme=vue-dark" />
 </a>
 
 <a href="https://github.com/Havsalt/charz">
@@ -60,10 +60,10 @@ When editing...
   <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Havsalt&repo=colex&theme=vue-dark" />
 </a>
 
-<a href="https://github.com/Havsalt/Command-Line-Expanded">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Havsalt&repo=Command-Line-Expanded&theme=vue-dark" />
+<a href="https://github.com/Havsalt/command-line-expanded">
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Havsalt&repo=command-line-expanded&theme=vue-dark" />
 </a>
 
-<a href="https://github.com/Havsalt/Fabricate">
-  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Havsalt&repo=Fabricate&theme=vue-dark" />
+<a href="https://github.com/Havsalt/fabricate">
+  <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Havsalt&repo=fabricate&theme=vue-dark" />
 </a>
