@@ -1,7 +1,7 @@
 ## About Me
 
-- 🔭 I’m currently working on **rewriting `Python` command-line tools** in `Rust`
-- 🌱 I’m currently learning about how to **develop** using `Rust`
+- 🔭 I’m currently working on **extensive terminal games** in `Python`, using **extension modules** written in `Rust`
+- 🌱 I’m currently learning about how to **build a modding system**, also using `Python`
 - ⚡ Fun fact: I've been coding for **half a decade** now - _That's more than 25% of my lifetime_
 
 <br>
