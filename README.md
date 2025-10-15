@@ -8,7 +8,7 @@
 
 ## Tools and Technologies
 Most skilled in...
-- 🐍 `Python` & Rye _project manager_
+- 🐍 `Python` & UV _project manager_
 - ⭐ `GDScript` @ Godot _game engine_
 - 🌹 `JavaScript` + Svelte _framework_
 
